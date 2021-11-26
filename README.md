@@ -20,3 +20,4 @@ StackEdit stores your files in your browser, which means all your files are auto
 	- Configure Access keys in your system using `aws configure`
 	- Go to app folder
 	- Run `serverless deploy` command in system
+	- After deployment, it will provide endpoint and you can test those with relavant api and input.
